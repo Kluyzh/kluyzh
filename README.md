@@ -43,40 +43,29 @@
     </td>
     <td align="center" width="90">
       <a href="https://www.django-rest-framework.org/" target="_blank">
-        <img alt="DRF" width="45" height="45" style="padding:10px;" src="https://www.django-rest-framework.org/img/logo.png" />
+        <img alt="DRF" width="45" height="45" style="padding:10px;" src="https://velog.velcdn.com/images/yulhee741/post/e80963d3-63e9-4230-8648-4a6b623f127f/다운로드.png" />
       </a>
       <br>
       <h4>DRF</h4>
     </td>
     <td align="center" width="90">
       <a href="https://scrapy.org/" target="_blank">
-        <img alt="Scrapy" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Scrapy_logo.png" />
+        <img alt="Scrapy" width="45" height="45" style="padding:10px;" src="https://avatars.githubusercontent.com/u/733635?s=200&v=4" />
       </a>
       <br>
       <h4>Scrapy</h4>
     </td>
     <td align="center" width="90">
       <a href="https://fastapi.tiangolo.com/" target="_blank" title="Активно изучаю">
-        <img alt="FastAPI (изучаю)" width="45" height="45" style="
-          padding:10px;
-          opacity: 0.85;
-          filter: 
-            grayscale(40%)
-            contrast(0.9)
-            brightness(1.1);
-          border: 1px dashed #009688;
-          border-radius: 10%;
-          background: linear-gradient(to right, 
-            rgba(0,150,136,0.2) 50%, 
-            transparent 50%);
-          box-sizing: border-box;
-        " src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" />
+        <img alt="FastAPI (изучаю)" width="45" height="45" style="padding:10px;" src="https://cdn-icons-png.flaticon.com/512/146/146807.png" />
       </a>
       <br>
-      <h4 style="margin-top:0;margin-bottom:0;">FastAPI <span style="font-size:0.8em; color:#009688;">📚</span></h4>
+      <h4>FastAPI</h4>
     </td>
   </tr>
 </table>
+
+
 
 ### Databases
 <table>
