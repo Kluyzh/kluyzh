@@ -41,21 +41,33 @@
     </td>
     <td align="center" width="90">
         <a href="https://www.django-rest-framework.org/" target="_blank">
-            <img alt="Django REST Framework" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/drf.svg" />
+            <img alt="Django REST Framework" width="45" height="45" style="padding:10px;" src="https://www.django-rest-framework.org/img/logo.png" />
         </a>
         <br><h4>DRF</h4>
     </td>
     <td align="center" width="90">
         <a href="https://scrapy.org/" target="_blank">
-            <img alt="Scrapy" width="45" height="45" style="padding:10px;" src="https://www.vectorlogo.zone/logos/scrapy/scrapy-icon.svg" />
+            <img alt="Scrapy" width="45" height="45" style="padding:10px;" src="https://github.com/scrapy/scrapy/raw/master/artwork/scrapy-logo.svg" />
         </a>
         <br><h4>Scrapy</h4>
     </td>
     <td align="center" width="90">
         <a href="https://fastapi.tiangolo.com/" target="_blank" title="Активно изучаю">
-            <img alt="FastAPI (изучаю)" width="45" height="45" style="padding:10px; filter: grayscale(20%); opacity: 0.95;" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" />
+            <img alt="FastAPI (изучаю)" width="45" height="45" style="
+                padding:10px;
+                opacity: 0.85;
+                filter: 
+                    grayscale(40%)
+                    contrast(0.9)
+                    brightness(1.1);
+                border: 1px dashed #009688;
+                border-radius: 10%;
+                background: linear-gradient(to right, 
+                    rgba(0,150,136,0.2) 50%, 
+                    transparent 50%);
+            " src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" />
         </a>
-        <br><h4>FastAPI <span style="font-size:0.8em;">📚</span></h4>
+        <br><h4>FastAPI <span style="font-size:0.8em; color:#009688;">📚</span></h4>
     </td>
 </table>
 
