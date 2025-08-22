@@ -2,7 +2,7 @@
 
 # Hello, I'm Ilya Kluyzhev 👋
 
-**Backend Python Developer | Django | PostgreSQL | Docker | CI/CD**
+**Backend Python Developer | Django | DRF | PostgreSQL | Docker | CI/CD**
 
 ---
 
