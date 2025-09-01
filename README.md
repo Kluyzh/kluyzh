@@ -9,7 +9,7 @@
 ## 💫 About Me
 
 - 🐍 Backend Python Developer
-- 🚀 Focus on **Django**, **Django REST Framework**, **SQLAlchemy**, **PostgreSQL**  
+- 🚀 Focus on **Django**, **Django REST Framework**, **PostgreSQL**  
 - 🛠️ Working with **Docker**, **CI/CD pipelines**
 - 📈 Love building solutions that save time, reduce errors and make life easier  
 - 🌟 Open to collaboration, learning and building cool things with great teams  
