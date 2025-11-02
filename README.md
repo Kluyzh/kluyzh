@@ -105,12 +105,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kluyzh&theme=2077" />
-
----
-
 ## 🎯 Let's Connect
 
 - Telegram: [@kluyzh](https://t.me/kluyzh)  
