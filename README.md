@@ -9,8 +9,8 @@
 ## 💫 About Me
 
 - 🐍 Backend Python Developer
-- 🚀 Focus on **Django**, **Django REST Framework**, **Aiogram**, **PyTelegramBotAPI**  
-- 🛠️ Working with **Docker**, **CI/CD pipelines**
+- 🚀 Focus on **Django**, **Django REST Framework**, **FastAPI**, **Aiogram**
+- 🛠️ Working with **Docker**, **CI/CD pipelines**, **Asyncio**, **Google API integrations**
 - 📈 Love building solutions that save time, reduce errors and make life easier  
 - 🌟 Open to collaboration, learning and building cool things with great teams  
 
@@ -49,18 +49,15 @@
       <h4>DRF</h4>
     </td>
     <td align="center" width="90">
-      <a href="https://scrapy.org/" target="_blank">
-        <img alt="Scrapy" width="45" height="45" style="padding:10px;" src="https://avatars.githubusercontent.com/u/733635?s=200&v=4" />
-      </a>
-      <br>
-      <h4>Scrapy</h4>
+        <a href="https://fastapi.tiangolo.com/" target="_blank"><img alt="FastAPI" width="45" height="45" style="padding:10px;" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" /></a>
+        <br><h4>FastAPI</h4>
     </td>
     <td align="center" width="90">
-      <a href="https://fastapi.tiangolo.com/" target="_blank" title="Активно изучаю">
-        <img alt="FastAPI (изучаю)" width="45" height="45" style="padding:10px;" src="https://cdn-icons-png.flaticon.com/512/146/146807.png" />
-      </a>
-      <br>
-      <h4>FastAPI</h4>
+        <a href="https://docs.aiogram.dev/" target="_blank">
+            <img alt="aiogram" width="45" height="45" style="padding:10px;" src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6515ad08b529a11a9be4e8ba_6515b0ef15845a04b8e4e694/scale_1200" />
+        </a>
+        <br>
+        <h4>aiogram</h4>
     </td>
   </tr>
 </table>
